@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1390451321 source:c:\users\billycb\desktop\gamebonba\main.cpp
+	<iostream>
+	<winbgim.h>
+	<conio.h>
+	"Tanque.h"
+
+1390450557 c:\users\billycb\desktop\gamebonba\include\tanque.h
+
+1390451294 source:c:\users\billycb\desktop\gamebonba\src\tanque.cpp
+	"Tanque.h"
+	<winbgim.h>
+	<iostream>
+
